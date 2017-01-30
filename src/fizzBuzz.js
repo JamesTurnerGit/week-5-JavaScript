@@ -16,8 +16,3 @@ function fizzBuzz(num){
   }
 
 };
-
-array.forEach(function(num){
-  return fizzBuzz(num);
-
-});
